@@ -54,8 +54,6 @@ export class MapSearchService {
 
 
     geocode(query: string): Observable<[number, number] | null> {
-        console.log('Geocoding query', query);
-
         if (!query?.trim()) return of(null);
 
         const params = {

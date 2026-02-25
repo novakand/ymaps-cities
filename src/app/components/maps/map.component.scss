@@ -92,7 +92,6 @@
     white-space: nowrap;
   }
 
-  /* SVG контейнер */
   .ym-marker__circle {
     width: 18px;
     height: 18px;
@@ -105,7 +104,6 @@
     filter: drop-shadow(0 3px 6px rgba(0, 0, 0, 0.15));
   }
 
-  /* Иконка поверх круга */
   .ym-marker__icon {
     position: absolute;
     width: 24px;
@@ -118,19 +116,15 @@
     justify-content: center;
   }
 
-  /* Текст справа */
   .ym-marker__label {
     margin-left: 6px;
-    background: #ffffff;
+    background: var(--p-overlay-modal-background);
     padding: 2px 8px;
     border-radius: 8px;
-    color: #000;
     font-size: 14px;
     font-weight: 500;
     line-height: 16px;
-
     max-width: 240px;
-    /* 👈 ВАЖНО */
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;

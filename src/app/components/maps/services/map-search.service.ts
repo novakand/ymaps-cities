@@ -52,7 +52,6 @@ export class MapSearchService {
             );
     }
 
-
     geocode(query: string): Observable<[number, number] | null> {
         if (!query?.trim()) return of(null);
 

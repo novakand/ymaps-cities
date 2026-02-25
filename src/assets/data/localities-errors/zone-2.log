@@ -1,0 +1,16 @@
+[2025-11-20T13:56:54.636Z]
+Unhandled exception
+geometry.component.pixelContains: Для рассчета вхождения точки геометрия должна быть добавлена на карту.
+
+[2025-11-20T14:05:09.881Z]
+Unhandled exception
+geometry.component.pixelContains: Для рассчета вхождения точки геометрия должна быть добавлена на карту.
+
+[2025-11-20T14:51:57.033Z]
+Unhandled exception
+Timeout: scan zone-2 attempt 3 after 90000ms
+
+[2025-11-20T15:05:59.450Z]
+Unhandled exception
+Timeout: scan zone-2 attempt 3 after 90000ms
+

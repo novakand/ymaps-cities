@@ -1,0 +1,24 @@
+[2025-11-20T13:56:48.320Z]
+Unhandled exception
+geometry.component.pixelContains: Для рассчета вхождения точки геометрия должна быть добавлена на карту.
+
+[2025-11-20T14:05:03.559Z]
+Unhandled exception
+geometry.component.pixelContains: Для рассчета вхождения точки геометрия должна быть добавлена на карту.
+
+[2025-11-20T14:47:20.716Z]
+Unhandled exception
+Timeout: scan zone-3 attempt 3 after 90000ms
+
+[2025-11-20T15:01:23.133Z]
+Unhandled exception
+Timeout: scan zone-3 attempt 3 after 90000ms
+
+[2025-11-20T15:15:15.999Z]
+Unhandled exception
+Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.
+
+[2025-11-20T15:20:30.975Z]
+Unhandled exception
+Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.
+

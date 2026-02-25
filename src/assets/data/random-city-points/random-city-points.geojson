@@ -1,0 +1,2787 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Москва"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.61980433624106,
+          55.753216236653344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Москва"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.23409908016957,
+          56.04090245191152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Москва"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.644777012514,
+          55.77970668275479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Москва"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.60374190506186,
+          55.76370501789112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Москва"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.596184462609216,
+          55.76242007183242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Москва"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8060307043467,
+          55.71404823397261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Москва"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.66930965553094,
+          55.74033805830858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Москва"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.64183544608811,
+          55.5358614920462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Москва"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.02260998705377,
+          55.53960074628866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Москва"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.35171376518517,
+          55.876455184833056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Москва"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.580175987614155,
+          55.698188056710514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Москва"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.24545306776238,
+          55.91795229568087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Москва"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.70786625328013,
+          55.75753579824392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Москва"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.615407348633994,
+          55.76184025697567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Москва"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.59280484576012,
+          55.78067296959406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Москва"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.40837914137006,
+          55.6933592170047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Санкт-Петербург"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.004267426252962,
+          59.960410716033806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Санкт-Петербург"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.37103904872874,
+          59.927342471288824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Санкт-Петербург"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.529141010737824,
+          59.88988529531532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Санкт-Петербург"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.048998707916887,
+          59.660895764135184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Санкт-Петербург"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.035304607405923,
+          60.294177843916245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Санкт-Петербург"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.217096685987563,
+          59.9271149832216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Санкт-Петербург"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.055626085879556,
+          59.66875582163437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Санкт-Петербург"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.306190223540018,
+          59.985158452500755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Новосибирск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.90684291045659,
+          55.01851270475672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Новосибирск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.90777256561216,
+          55.0277374656395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Новосибирск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.92650427239099,
+          55.04256150906968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Новосибирск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.91640300401801,
+          55.037261164129994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Екатеринбург"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.628628754855775,
+          56.80127539622628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Екатеринбург"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.84505462313067,
+          56.806879382124066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Екатеринбург"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.07222208054397,
+          56.940054558366164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Екатеринбург"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.59986637904412,
+          56.837217922008826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Екатеринбург"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.4610307903958,
+          56.906316905762274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Казань"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.907430218222174,
+          55.760596922062085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Казань"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.054835173853,
+          55.818499551835515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Красноярск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.07629529443894,
+          56.054079608148314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Красноярск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.97193858896924,
+          55.913754472579164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Красноярск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.85847865404847,
+          56.004028840560636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Красноярск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.78131600917081,
+          56.035487606028674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Красноярск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.78587309447063,
+          56.08175231104931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Нижний Новгород"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.013153097249734,
+          56.32478214813698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Нижний Новгород"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.02647898867879,
+          56.33134185558733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Нижний Новгород"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.00490629988406,
+          56.32741244665467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Челябинск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.26219665148558,
+          55.260254121038344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Челябинск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.430433349742465,
+          55.21714887737047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Челябинск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.399225942057186,
+          55.15306906837046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Уфа"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.91779468334467,
+          54.58635847252823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Уфа"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.95865774235463,
+          54.73515310017073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Уфа"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.9721523645964,
+          54.78340449317313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Самара"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.11013315654059,
+          53.2124798292978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Самара"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.08627183508955,
+          53.20277490427143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Самара"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1582911555448,
+          53.245273304448624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Самара"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.100617693178464,
+          53.19692098771209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Самара"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.05036923311073,
+          53.22900807036122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ростов-на-Дону"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.846107055258315,
+          47.11596841346203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ростов-на-Дону"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.73538085386723,
+          47.22797961863905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ростов-на-Дону"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.70902709762678,
+          47.21242497458639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ростов-на-Дону"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.771113858929006,
+          47.2905029456356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ростов-на-Дону"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.68944197428655,
+          47.23167514195382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ростов-на-Дону"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.71322024534663,
+          47.22286947856542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Краснодар"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.98640423304507,
+          45.12729911205659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Краснодар"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.02697164538953,
+          44.96356951314597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Краснодар"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.97616711880451,
+          45.03689253801423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Краснодар"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.033249254001035,
+          45.11423518374228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Краснодар"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.934749162858544,
+          45.00085185225046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Краснодар"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.89296369026655,
+          45.140917883348166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Краснодар"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.90405464929918,
+          45.09975029932301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Краснодар"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.007701352399216,
+          45.07863395367903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Краснодар"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.06121955967762,
+          45.00824856092742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Омск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.32818911599337,
+          54.800844453097056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Омск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.35973031464349,
+          54.987555694633215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Воронеж"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.19624631187893,
+          51.65591471595915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Воронеж"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.11003193427096,
+          51.647034326764384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Воронеж"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.91043657542442,
+          51.55417405001855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Воронеж"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.90434060380264,
+          51.59613218302237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Пермь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.231345630651674,
+          58.00998181094183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Пермь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.20911867560286,
+          58.004503128623924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Волгоград"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.516975,
+          48.707067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Саратов"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.92913547008101,
+          51.51836813463063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Саратов"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.18456890796522,
+          51.471295948330805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Саратов"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.063998551532215,
+          51.529021345519006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Тюмень"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.54728691477555,
+          57.16231288872527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Тюмень"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.54343247817434,
+          57.15732046314948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Тольятти"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.36487581883888,
+          53.39716823283946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Тольятти"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.66860515347832,
+          53.38755138368029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Барнаул"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.78587642904745,
+          53.42753109196781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Барнаул"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7477269700237,
+          53.36189622202005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ижевск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.203509900371124,
+          56.85471511248004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ижевск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.38301655625097,
+          56.81178063713936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ижевск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.15988675465763,
+          56.906010267957065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Хабаровск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.071917,
+          48.480229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Иркутск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.25284208611257,
+          52.29796368729258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Иркутск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.21656093596089,
+          52.34300895238917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Иркутск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28368305379072,
+          52.291095011672944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Иркутск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.42340263267965,
+          52.29911771895089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Владивосток"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.9172386294956,
+          43.19114808651316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Владивосток"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.81620915863033,
+          43.24522066925724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Севастополь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.534290190919776,
+          44.62911290531162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Севастополь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.53294449374887,
+          44.37038676368926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ставрополь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.95443788714157,
+          45.05168577541074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ставрополь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.02906489391911,
+          45.009618122123214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ставрополь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.94281092049837,
+          45.06279325221618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ставрополь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.944052471748385,
+          45.01546998508053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ставрополь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.97208520630672,
+          45.04410063268865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Томск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9493800030583,
+          56.48083773652227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Томск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.93988324198516,
+          56.48902062324017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Томск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.86433552926668,
+          56.512236914687946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Томск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.03404903140388,
+          56.51384326093985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Кемерово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.0687394609944,
+          55.36056765163944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Кемерово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.07462988276859,
+          55.349182600126674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Кемерово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.06139084858323,
+          55.36509244372693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Оренбург"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.09607893824657,
+          51.767937175183235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Оренбург"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.92024817596226,
+          51.68087106474408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Оренбург"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.11783851128561,
+          51.77208948607123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Оренбург"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.10795769526528,
+          51.766900476501554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Оренбург"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.09592255324042,
+          51.76846448516206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Новокузнецк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.136053,
+          53.757553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Рязань"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.737111,
+          54.629221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Калининград"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.329756455404148,
+          54.67074325788501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Калининград"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.389251307983802,
+          54.6357983018287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Пенза"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.01852727073468,
+          53.18910978540544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Пенза"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.91182602709881,
+          53.20790301127412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Липецк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.599240230170906,
+          52.60884003453928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Липецк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.66617594509217,
+          52.680158585221456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Киров"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.668023,
+          58.603595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Тула"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.62114900942982,
+          54.157899148934305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Тула"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.60392434197853,
+          54.25394398418629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Сочи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.43663292211237,
+          43.46612756717975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Сочи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.681235868318396,
+          43.301433078262164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Сочи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.71918818119448,
+          43.37881533477087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Сочи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.81016741168953,
+          43.78668863263044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Курск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.193015,
+          51.730846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Улан-Удэ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.50401447874879,
+          51.73751453946429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Улан-Удэ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59280274102866,
+          51.83467085869074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Тверь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.83922237178526,
+          56.840545204322225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Тверь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.93851922487879,
+          56.81793652800719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Магнитогорск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.98010060301238,
+          53.40697141693876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Магнитогорск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.980878877108026,
+          53.407087711142886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Брянск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.33548259368082,
+          53.231202570003944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Брянск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.40721184848979,
+          53.22846425431621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Иваново"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.973014,
+          56.999799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Владимир"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.406635,
+          56.129057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Симферополь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.09925248569308,
+          44.94868410552146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Симферополь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.112512690766806,
+          44.94998398350768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Симферополь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.11620110017401,
+          44.95513134562583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Симферополь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.12829104391958,
+          44.96671368196575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Симферополь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.17638350810332,
+          44.95475185138058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Чита"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.501049,
+          52.033635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Калуга"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.37581143628725,
+          54.47627978099934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Калуга"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.22405490611234,
+          54.5235122006925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Белгород"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.587277,
+          50.595414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Вологда"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.87086776067008,
+          59.18346422855903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Вологда"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.98302870553372,
+          59.18268603364981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Саранск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.18756002077864,
+          54.18862941518287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Саранск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.17236932031854,
+          54.203501292387266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Смоленск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.11368720112346,
+          54.82295576671648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Смоленск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.04694680199197,
+          54.761429990037854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Курган"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.341118,
+          55.441004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Архангельск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.49310008078064,
+          64.5112370895122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Архангельск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.419334315026035,
+          64.59560118945456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Владикавказ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.681771,
+          43.024616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Орёл"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.064358,
+          52.970756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Нижневартовск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.558902,
+          60.938545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Йошкар-Ола"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.93063736496702,
+          56.63361800919412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Йошкар-Ола"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.88611098722516,
+          56.63159624284728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Стерлитамак"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.930825,
+          53.630403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Мытищи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.736743,
+          55.909968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Кострома"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.0594474785052,
+          57.75665873631418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Кострома"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.91390236007328,
+          57.783459396171956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Новороссийск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.768813,
+          44.723771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Химки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.444853,
+          55.889361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Тамбов"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.45275,
+          52.721295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Таганрог"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.936694,
+          47.208735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Благовещенск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.525713694252,
+          50.179823474371254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Благовещенск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7211715545599,
+          50.27653900992474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Королёв"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.815211,
+          55.918953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Сыктывкар"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.836497,
+          61.668797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Орск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.474675,
+          51.2293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Псков"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.332792,
+          57.819307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Абакан"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.55815829310494,
+          53.659481656302425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Абакан"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.43363721595088,
+          53.71935055038394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Армавир"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.129644,
+          44.997655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Бийск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.220656,
+          52.541811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Южно-Сахалинск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.73100860360435,
+          46.946212502945784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Южно-Сахалинск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.78844261451218,
+          46.98868619239832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Уссурийск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.952122,
+          43.797247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Петропавловск-Камчатский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.643503,
+          53.024265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Сызрань"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.474611,
+          53.155669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Пятигорск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.070410373666796,
+          44.03983235870839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Пятигорск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.074787206750806,
+          44.06591824355145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Коломна"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.765574,
+          55.095276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ессентуки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.856206,
+          44.048232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Невинномысск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.936061,
+          44.638287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ханты-Мансийск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.01424400559026,
+          60.92362885072295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ханты-Мансийск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.91155897306652,
+          61.08017505389457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ханты-Мансийск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.91469366345304,
+          60.96919936080201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Новый Уренгой"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.680956,
+          66.084539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Евпатория"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.367643,
+          45.190635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Камышин"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.402166,
+          50.085287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Новошахтинск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.934705,
+          47.754315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ялта"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.169506,
+          44.497415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Феодосия"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.383911,
+          45.026654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Дмитров"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.517608,
+          56.342905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Казахстан"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.770652,
+          52.237297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Беларусь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.970901624481936,
+          52.74335230739302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Беларусь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.226327071961965,
+          50.30049108099382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Беларусь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.678365221266453,
+          52.84882187608173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Абхазия"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.89901,
+          43.15983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Лабинск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.723578,
+          44.635715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Донецк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.80285,
+          48.015884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Луганск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.307708,
+          48.573896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Херсон"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.614962,
+          46.640319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Запорожье"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.138851,
+          47.838312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Мелитополь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.37288,
+          46.842187
+        ]
+      }
+    }
+  ]
+}

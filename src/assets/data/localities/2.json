@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "file": "src/assets/data/polygons/1.geojson",
+    "stepDeg": 0.05,
+    "throttleMs": 250
+  },
+  {
+    "id": "2",
+    "file": "src/assets/data/polygons/2.geojson",
+    "stepDeg": 0.05,
+    "throttleMs": 250
+  }
+]

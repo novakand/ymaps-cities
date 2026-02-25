@@ -1,0 +1,8 @@
+[2025-11-26T14:48:30.261Z]
+Top-level failure
+Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.
+
+[2025-11-26T15:42:42.267Z]
+Top-level failure
+Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.
+

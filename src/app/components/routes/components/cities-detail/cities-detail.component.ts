@@ -80,8 +80,7 @@ export class CitiesDetailComponent implements OnInit, OnDestroy {
             speed: null
         };
         this._buildForm();
-        this._watchForFormValueChanges();
-        this._watchForIsRepeatChanges();
+        this._watchForFormValueChanges()
 
         this.breakpointObserver
             .observe(['(min-width: 992px)', '(max-width: 767px)'])
@@ -124,31 +123,9 @@ export class CitiesDetailComponent implements OnInit, OnDestroy {
     }
 
 
-    private _watchForIsRepeatChanges(): void {
-        this.form.get('isRepeat')!
-            .valueChanges
-            .pipe(
-                takeUntil(this._destroy$),
-            )
-            .subscribe(isRepeat => {
-                const startCtrl = this.form.get('start')!;
-                const endCtrl = this.form.get('end')!;
-
-                if (isRepeat) {
-                    startCtrl.disable({ emitEvent: false });
-                    endCtrl.disable({ emitEvent: false });
-                } else {
-                    startCtrl.enable({ emitEvent: false });
-                    endCtrl.enable({ emitEvent: false });
-                }
-
-            });
-    }
 
     public ngOnInit() {
         this.getById();
-        this._getTrack$.next(null)
-
     }
 
     public getById() {
@@ -175,14 +152,6 @@ export class CitiesDetailComponent implements OnInit, OnDestroy {
     public ngOnDestroy(): void {
         this._destroy$.next(true);
         this._destroy$.complete();
-        this.mapService.remove$.next(true);
-        this.data = {
-            timestamp: '–',
-            latitude: null,
-            longitude: null,
-            altitude: null,
-            speed: null
-        };
         this._cdr.markForCheck();
 
     }

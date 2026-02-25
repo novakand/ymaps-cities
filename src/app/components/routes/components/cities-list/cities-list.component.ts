@@ -126,8 +126,6 @@ export class CitiesListComponent implements OnInit {
         );
 
         this.count = this.filteredCities.length;
-
-        // 🔥 отправляем фильтр на карту
         this._mapService.cityColorFilter$.next(this.selectedColors);
 
         this._cdr.markForCheck();

@@ -121,7 +121,7 @@ export class MapComponent {
         this._watchForBoundsChanges();
         this._watchVisiblePolygons();
         this._watchForCityDataChanges();
-        this._watchFoRemoveChanges();
+        // this._watchFoRemoveChanges();
         this._watchForFocusCityChanges();
         this._watchCityMarkers();
         this._onBoundsChange();
@@ -257,21 +257,6 @@ export class MapComponent {
 
                 this.cdr.detectChanges();
             });
-    }
-
-
-    private getMarkerOffset(zoom: number, index: number): [number, number] {
-
-        if (zoom >= 5) return [0, 0];
-
-        const radius = zoom <= 3 ? 18 : 10;
-
-        const angle = (index * 40) * (Math.PI / 180);
-
-        const x = Math.round(Math.cos(angle) * radius);
-        const y = Math.round(Math.sin(angle) * radius);
-
-        return [x, y];
     }
 
     private _watchForCityDataChanges(): void {

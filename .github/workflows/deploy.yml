@@ -31,7 +31,7 @@ jobs:
         run: npm run build:gh
 
       - name: List build output
-        run: ls -R dist/ymaps-distance
+        run: ls -R dist/ymaps-cities
 
       - name: Determine publish directory
         run: |

@@ -69,10 +69,6 @@ export const appConfig: ApplicationConfig = {
         }
       }
     }),
-    provideMapboxGL({
-      accessToken: 'pk.eyJ1Ijoibm92YWthbmQiLCJhIjoiY2p3OXFlYnYwMDF3eTQxcW5qenZ2eGNoNCJ9.PTZDfrwxfMd-hAwzZjwPTg'
-    }),
-
     provideHttpClient(),
     provideRouter(routes, withComponentInputBinding()),
     provideClientHydration(),

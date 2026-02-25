@@ -6,7 +6,7 @@
     "ng": "ng",
     "start": "ng serve --base-href / --serve-path /",
     "build": "ng build",
-    "build:gh": "ng build --configuration=production",
+    "build:gh": "ng build --configuration=production --base-href=/ymaps-cities/",
     "deploy": "npm run build:gh && npx ngh --dir=dist/ymaps-cities",
     "watch": "ng build --watch --configuration development",
     "fetch:polygons": "ts-node -P tsconfig.scripts.json scripts/fetch-polygons.ts",

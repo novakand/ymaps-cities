@@ -120,20 +120,24 @@ export class CitiesListComponent implements OnInit {
     public onUpload(): void {
         const ref = this.dialogService.open(CitiesUploadComponent, {
             data: { ref: 'null' },
-            width: '50vw',
+            width: '40vw',
             modal: true,
-            height: '28rem',
+            height: '26rem',
+            draggable: true,
+            closable: true,
+            maximizable: false,
+            header: 'Загрузить список городов',
             contentStyle: {
                 overflow: 'hidden',
                 padding: 'var(--p-dialog-content-padding)'
             },
-            showHeader: false,
+            // showHeader: false,
             focusOnShow: false,
             styleClass: '',
             breakpoints: {
                 '960px': '75vw',
                 '640px': '90vw',
-                '390px': '100%'
+                '390px': '90vw'
             },
         });
 

@@ -3,9 +3,12 @@
         display: none;
     }
 
-    // .p-fileupload-header {
-    //     padding: 0;
-    // }
+    .p-fileupload-header {
+        padding: 0;
+    }
+     .p-fileupload-content {
+        padding: var(--p-fileupload-content-padding);
+    }
 
     .p-fileupload-header button {
         display: none;

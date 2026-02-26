@@ -17,26 +17,24 @@ import { MapZoomControlComponent } from './components/map-zoom-control/map-zoom-
 import { MapFullscreenComponent } from './components/map-fullscreen/map-fullscreen.component';
 import { MapSettingsControlComponent } from './components/map-settings-control/map-settings-control.component';
 import { MapService } from './services/map-service';
-import { CitiesService, CityIndexItem } from '../cities/services/cities.service';
-import { BehaviorSubject, catchError, combineLatest, debounceTime, delay, distinctUntilChanged, filter, forkJoin, map, Observable, of, Subject, switchMap, takeUntil, tap } from 'rxjs';
-import { BBox, Feature } from 'geojson';
+import { CitiesService } from '../cities/services/cities.service';
+import { BehaviorSubject, catchError, combineLatest, debounceTime, delay, distinctUntilChanged, filter, forkJoin, map, of, Subject, switchMap, takeUntil, tap } from 'rxjs';
+import { BBox } from 'geojson';
 import { MapEventManager } from './services/map-event-manager';
 import { YMapFeatureDirective } from './directives/y-map-feature.directive';
 import { YMapFeatureDataSourceDirective } from './directives/y-map-feature-data-source.directive';
 import { YMapLayerDirective } from './directives/y-map-layer.directive';
 import { MapLegendControlComponent } from './components/map-legend-control/map-legend-control.component';
-import { RoutesService } from '../routes/services/routes.service';
 import { YMapClustererDirective } from './directives/y-map-clusterer.directive';
-import { YMapLocationRequest } from '@yandex/ymaps3-types';
 import { LayoutService } from '../../services/layout.service';
 import { YMapMouseDirective } from './directives/y-map-mouse.directive';
-import type { HideOutsideRule } from '@yandex/ymaps3-types';
 import { CollisionLabelDirective } from './directives/collision-label.directive';
 import { MapSearchComponent } from './components/map-search/map-search.component';
 import { YMapDefaultMarkerDirective } from './directives/y-map-default-marker.directive';
 import { YMapMarkerDirective } from './directives/y-map-marker.directive';
 import { CollisionManagerService } from './services/collision-manager.service';
 import { YMapHintDirective } from './directives/y-map-hint.directive';
+import { BreakpointObserver, BreakpointState } from '@angular/cdk/layout';
 @Component({
     selector: 'app-map',
     standalone: true,
@@ -82,6 +80,8 @@ export class MapComponent {
     public isVisible = false;
     public encodeURIComponent = encodeURIComponent;
     public isVisibleSidebarBottom = false;
+    public isSmallScreen: boolean;
+    public isLargeScreen: boolean;
     public searchMarker?: any;
     public routeFeature: any;
     public markerFeatures: any;
@@ -105,10 +105,20 @@ export class MapComponent {
         public mapService: MapService,
         private cities: CitiesService,
         public layoutService: LayoutService,
-        private collisionService: CollisionManagerService
+        private collisionService: CollisionManagerService,
+        private breakpointObserver: BreakpointObserver,
     ) {
 
         this.theme.set(this.layoutService.config().darkTheme ? 'dark' : 'light');
+
+        this.breakpointObserver
+            .observe(['(min-width: 992px)', '(max-width: 767px)'])
+            .pipe(delay(100))
+            .subscribe((state: BreakpointState) => {
+                this.isLargeScreen = state.breakpoints['(min-width: 992px)'];
+                this.isSmallScreen = state.breakpoints['(max-width: 767px)'];
+                this.cdr.detectChanges();
+            });
     }
 
     public onMapReady(ev: { entity: any; ymaps3: typeof ymaps3 }) {
@@ -155,18 +165,8 @@ export class MapComponent {
         this.mapService.focusCity$
             .pipe(filter(Boolean))
             .subscribe((data: any) => {
-
                 if (!this.map) return;
-
-                if (data.bbox) {
-                    const [minLng, minLat, maxLng, maxLat] = data.bbox;
-
-                    this.fitBounds([
-                        [minLng, minLat],
-                        [maxLng, maxLat]
-                    ]);
-                }
-                else if (data.center) {
+                if (data.center) {
                     this.map.update({
                         location: {
                             center: data.center,

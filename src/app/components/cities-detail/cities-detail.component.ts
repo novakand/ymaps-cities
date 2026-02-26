@@ -1,7 +1,6 @@
 import { ChangeDetectionStrategy, ChangeDetectorRef, Component, computed, OnDestroy, OnInit, signal } from '@angular/core';
 import { Router } from '@angular/router';
-import { catchError, debounceTime, delay, EMPTY, filter, map, of, Subject, switchMap, takeUntil, tap } from 'rxjs';
-import { RoutesService } from '../../../routes/services/routes.service';
+import { debounceTime, delay, filter, Subject, tap } from 'rxjs';
 import { Input as RouterInput } from '@angular/core'
 import { DrawerModule } from 'primeng/drawer';
 import { ButtonModule } from 'primeng/button';
@@ -10,16 +9,13 @@ import { DatePicker } from 'primeng/datepicker';
 import { TimelineModule } from 'primeng/timeline';
 import { CommonModule } from '@angular/common';
 import { FormBuilder, FormGroup, FormsModule, ReactiveFormsModule, Validators } from '@angular/forms';
-import { MapService } from '../../../maps/services/map-service';
-import { LoadProgressService } from '../../../../services/load-progress.service';
-import { IPointInfo } from '../../../routes/interfaces/point-info.interface';
-import { MsToKmhPipe } from '../../../../pipes/ms-to-km.pipe';
+import { MapService } from '../maps/services/map-service';
+import { LoadProgressService } from '../../services/load-progress.service';
+import { MsToKmhPipe } from '../../pipes/ms-to-km.pipe';
 import { BreakpointObserver, BreakpointState } from '@angular/cdk/layout';
-import { SafeDatePipe } from '../../../../pipes/safe-date.pipe';
-import { ConfirmationService } from 'primeng/api';
-import { LayoutService } from '../../../../services/layout.service';
+import { LayoutService } from '../../services/layout.service';
 import { TranslateModule } from '@ngx-translate/core';
-import { CitiesService } from '../../../cities/services/cities.service';
+import { CitiesService } from '../cities/services/cities.service';
 
 @Component({
     selector: 'app-cities-detail',
@@ -65,20 +61,13 @@ export class CitiesDetailComponent implements OnInit, OnDestroy {
         private _cdr: ChangeDetectorRef,
         private citiesService: CitiesService,
         private router: Router,
-        private _vehicleService: RoutesService,
         private _loadProgressService: LoadProgressService,
         public mapService: MapService,
         private breakpointObserver: BreakpointObserver,
         public layoutService: LayoutService,
 
     ) {
-        this.data = {
-            timestamp: '–',
-            latitude: null,
-            longitude: null,
-            altitude: null,
-            speed: null
-        };
+
         this._buildForm();
         this._watchForFormValueChanges()
 

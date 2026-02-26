@@ -1,25 +1,24 @@
 import { ChangeDetectorRef, Component, OnInit } from '@angular/core';
 import { Router, RouterModule } from '@angular/router';
-import { RoutesService } from '../../../routes/services/routes.service';
 import { PanelModule } from 'primeng/panel';
 import { ListboxModule } from 'primeng/listbox';
 import { CommonModule } from '@angular/common';
 import { FormBuilder, FormControl, FormGroup, FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { TooltipModule } from 'primeng/tooltip';
-import { IsTextOverflowingPipe } from '../../../../pipes/text-overflowing.pipe';
+import { IsTextOverflowingPipe } from '../../pipes/text-overflowing.pipe';
 import { DialogService } from "primeng/dynamicdialog";
 import { delay } from 'rxjs';
 import { SkeletonModule } from 'primeng/skeleton';
 import { ButtonModule } from 'primeng/button';
 import { BreakpointObserver, BreakpointState } from '@angular/cdk/layout';
-import { LayoutService } from '../../../../services/layout.service';
+import { LayoutService } from '../../services/layout.service';
 import { TranslateModule } from '@ngx-translate/core';
 import { DrawerModule } from 'primeng/drawer';
 import { ToggleSwitchModule } from 'primeng/toggleswitch';
 import { Menu } from 'primeng/menu';
-import { MapService } from '../../../maps/services/map-service';
+import { MapService } from '../maps/services/map-service';
 import { SelectButtonModule } from 'primeng/selectbutton';
-import { CitiesService } from '../../../cities/services/cities.service';
+import { CitiesService } from '../cities/services/cities.service';
 @Component({
     selector: 'app-cities-list',
     standalone: true,
@@ -91,7 +90,7 @@ export class CitiesListComponent implements OnInit {
     }
 
     public ngOnInit() {
-        this._mapService.remove$.next(true);
+        //this._mapService.remove$.next(true);
         this.citiesService.findEnabled()
             .pipe(delay(50))
             .subscribe(data => {
@@ -132,7 +131,7 @@ export class CitiesListComponent implements OnInit {
     }
 
     public onChange({ value }: any): void {
-        this.router.navigate(['/route', value.id]);
+        this.router.navigate(['city', value.id]);
     }
 
     public onOpen(): void {

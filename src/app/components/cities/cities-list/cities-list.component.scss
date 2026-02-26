@@ -1,5 +1,10 @@
 ::ng-deep {
 
+
+        .p-fileupload-content p-progressbar {
+     display: none;
+  }
+
     .p-drawer-bottom-append {
         bottom: 0 !important;
         position: absolute !important;

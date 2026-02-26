@@ -9,13 +9,13 @@ import { DatePicker } from 'primeng/datepicker';
 import { TimelineModule } from 'primeng/timeline';
 import { CommonModule } from '@angular/common';
 import { FormBuilder, FormGroup, FormsModule, ReactiveFormsModule, Validators } from '@angular/forms';
-import { MapService } from '../maps/services/map-service';
-import { LoadProgressService } from '../../services/load-progress.service';
-import { MsToKmhPipe } from '../../pipes/ms-to-km.pipe';
+import { MapService } from '../../maps/services/map-service';
+import { LoadProgressService } from '../../../services/load-progress.service';
+import { MsToKmhPipe } from '../../../pipes/ms-to-km.pipe';
 import { BreakpointObserver, BreakpointState } from '@angular/cdk/layout';
-import { LayoutService } from '../../services/layout.service';
+import { LayoutService } from '../../../services/layout.service';
 import { TranslateModule } from '@ngx-translate/core';
-import { CitiesService } from '../cities/services/cities.service';
+import { CitiesService } from '../services/cities.service';
 
 @Component({
     selector: 'app-cities-detail',

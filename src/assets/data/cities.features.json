@@ -465,8 +465,8 @@
         54.26899755,
         56.0863952
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -559,8 +559,8 @@
         53.496973800000006,
         54.505785599999996
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -653,8 +653,8 @@
         55.90337875,
         53.38113695
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -841,8 +841,8 @@
         55.980528050000004,
         53.65559305
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -1029,8 +1029,8 @@
         56.03858435,
         54.730399950000006
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -1775,8 +1775,8 @@
         107.68339125,
         51.868952199999995
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -1961,8 +1961,8 @@
         40.1016843,
         44.6048307
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -2618,8 +2618,8 @@
         127.56094325000001,
         50.351138250000005
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -3085,8 +3085,8 @@
         48.2806097,
         42.0722575
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -3271,8 +3271,8 @@
         47.626905550000004,
         42.8853441
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -3550,8 +3550,8 @@
         47.4690394,
         43.01977085
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -3643,8 +3643,8 @@
         46.5926027,
         43.2456665
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -4108,8 +4108,8 @@
         44.76276905,
         43.221030850000005
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -4483,8 +4483,8 @@
         43.616484,
         43.489512500000004
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -5046,8 +5046,8 @@
         44.2601358,
         46.32957745
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -5608,8 +5608,8 @@
         42.05921455,
         44.22531355
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -5701,8 +5701,8 @@
         34.41917545,
         61.787141649999995
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -6910,8 +6910,8 @@
         50.77398305,
         61.742203
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -9062,8 +9062,8 @@
         129.774971,
         62.140616449999996
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -9713,8 +9713,8 @@
         47.96621385,
         56.647253899999995
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -10085,8 +10085,8 @@
         45.18069165,
         54.19154175
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -10364,8 +10364,8 @@
         44.6727999,
         43.025564149999994
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -10829,8 +10829,8 @@
         52.333010200000004,
         54.9004779
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -11759,8 +11759,8 @@
         49.10091575,
         55.766937350000006
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -12411,8 +12411,8 @@
         53.19896885,
         56.86058075
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -13440,8 +13440,8 @@
         47.2617584,
         56.104015950000004
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -13534,8 +13534,8 @@
         47.49515205,
         56.098674349999996
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -14283,8 +14283,8 @@
         52.37859895,
         55.712795799999995
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -14376,8 +14376,8 @@
         51.84337625,
         55.61981715
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -14841,8 +14841,8 @@
         94.45636845,
         51.7025299
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -15308,8 +15308,8 @@
         83.7204725,
         53.334356400000004
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -15494,8 +15494,8 @@
         85.1492141,
         52.511674549999995
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -16052,8 +16052,8 @@
         81.22950385,
         51.5208411
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -16424,8 +16424,8 @@
         39.5799515,
         43.7129412
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -16517,8 +16517,8 @@
         37.76653735,
         44.72303675
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -16610,8 +16610,8 @@
         41.11591485,
         44.991223250000004
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -17075,8 +17075,8 @@
         40.72415735,
         44.63788255
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -20051,8 +20051,8 @@
         92.89798225,
         56.0228286
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -20423,8 +20423,8 @@
         88.08023445,
         69.40816674999999
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -20609,8 +20609,8 @@
         132.95801955000002,
         42.8018907
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -20888,8 +20888,8 @@
         131.98141095,
         43.78524965
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -21075,8 +21075,8 @@
         41.94735545,
         45.04076755
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -21168,8 +21168,8 @@
         43.0362272,
         44.0496818
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -21261,8 +21261,8 @@
         42.7260232,
         43.90359795
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -21354,8 +21354,8 @@
         41.93548255,
         44.6433954
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -21633,8 +21633,8 @@
         42.0326936,
         45.1232779
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -22749,8 +22749,8 @@
         132.03891445,
         43.17312175
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -22935,8 +22935,8 @@
         132.19351165,
         43.38042335
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -23772,8 +23772,8 @@
         135.05953655000002,
         48.464904700000005
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -24144,8 +24144,8 @@
         137.0364482,
         50.56028335
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -24516,8 +24516,8 @@
         127.56094325000001,
         50.351138250000005
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -25353,8 +25353,8 @@
         40.560722850000005,
         64.58526144999999
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -25446,8 +25446,8 @@
         39.83488325,
         64.5814359
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -26562,8 +26562,8 @@
         48.03650225,
         46.3652821
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -27120,8 +27120,8 @@
         36.58354455,
         50.5860263
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -27213,8 +27213,8 @@
         37.84315135,
         51.2905303
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -28702,7 +28702,7 @@
         56.1229272
       ],
       "enabled": true,
-      "color": "#FFC107"
+      "color": "#F44336"
     }
   },
   {
@@ -28794,8 +28794,8 @@
         41.3096628,
         56.355431100000004
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -28887,8 +28887,8 @@
         42.027852499999995,
         55.563558799999996
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -30003,8 +30003,8 @@
         34.3665908,
         53.27922015
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -31771,7 +31771,7 @@
         48.6480624
       ],
       "enabled": true,
-      "color": "#FFC107"
+      "color": "#F44336"
     }
   },
   {
@@ -31863,8 +31863,8 @@
         44.76080035,
         48.83066325
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -32235,8 +32235,8 @@
         45.395243449999995,
         50.065639250000004
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -33816,8 +33816,8 @@
         39.87813585,
         59.226971
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -34839,8 +34839,8 @@
         37.86149615,
         59.124835399999995
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -34932,8 +34932,8 @@
         39.33609215,
         51.69381775
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -36327,8 +36327,8 @@
         40.997257399999995,
         57.00869675
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -38094,8 +38094,8 @@
         103.90112315,
         52.5258971
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -38466,8 +38466,8 @@
         101.67813340000001,
         56.1803782
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -40512,8 +40512,8 @@
         20.473538499999997,
         54.70465325
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -42000,8 +42000,8 @@
         36.19614675,
         54.53644415
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -42093,8 +42093,8 @@
         36.60188825,
         55.09973815
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -42279,8 +42279,8 @@
         49.5759216,
         58.592149899999995
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -44793,8 +44793,8 @@
         86.10076955,
         55.40074875
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -45351,8 +45351,8 @@
         87.15508425,
         53.79430895
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -45630,8 +45630,8 @@
         86.72211885,
         53.8607564
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -46188,8 +46188,8 @@
         49.5759216,
         58.592149899999995
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -47862,8 +47862,8 @@
         40.90118175,
         57.79622195
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -48978,8 +48978,8 @@
         65.3953647,
         55.4120911
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -49815,8 +49815,8 @@
         36.182083000000006,
         51.727106899999995
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -52419,8 +52419,8 @@
         30.45828655,
         60.0565598
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -53155,8 +53155,8 @@
         30.0926255,
         59.93931005
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -53992,8 +53992,8 @@
         39.595686799999996,
         52.6030801
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -54914,8 +54914,8 @@
         37.38526445,
         55.581699150000006
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -55100,8 +55100,8 @@
         37.98378525,
         55.78507665
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -55472,8 +55472,8 @@
         37.705622250000005,
         55.553103449999995
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -56123,8 +56123,8 @@
         37.53198355,
         56.35337335
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -56216,8 +56216,8 @@
         37.4955722,
         55.94666965
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -56309,8 +56309,8 @@
         37.9067608,
         55.40859245
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -56681,8 +56681,8 @@
         38.1316121,
         55.569217800000004
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -57332,8 +57332,8 @@
         38.7982079,
         55.082749050000004
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -57425,8 +57425,8 @@
         37.86500245,
         55.913082349999996
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -57704,8 +57704,8 @@
         37.3007066,
         55.821230549999996
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -58634,8 +58634,8 @@
         37.9267232,
         55.63890125
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -58820,8 +58820,8 @@
         37.7391707,
         55.93179735
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -59006,8 +59006,8 @@
         38.4489197,
         55.868758850000006
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -59099,8 +59099,8 @@
         37.28382395,
         55.67818225
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -59285,8 +59285,8 @@
         38.98694245,
         55.8151375
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -59564,8 +59564,8 @@
         37.5398555,
         55.39283315
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -59750,8 +59750,8 @@
         37.8608157,
         56.0110389
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -59936,8 +59936,8 @@
         38.258448200000004,
         55.54351235
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -60029,8 +60029,8 @@
         37.866711800000004,
         55.76371805
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -60401,8 +60401,8 @@
         37.40950375,
         54.9225972
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -60959,8 +60959,8 @@
         37.3681119,
         55.933725550000005
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -61424,8 +61424,8 @@
         38.02094030000001,
         55.9086991
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -61610,8 +61610,8 @@
         38.4518397,
         55.78727705
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -62726,8 +62726,8 @@
         33.1135059,
         68.97347235000001
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -65051,8 +65051,8 @@
         31.31123715,
         58.560680950000005
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -65237,8 +65237,8 @@
         43.9163205,
         56.2950165
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -65330,8 +65330,8 @@
         43.51149515,
         56.282249500000006
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -65423,8 +65423,8 @@
         43.83727495,
         55.394675649999996
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -67097,8 +67097,8 @@
         83.09667619999999,
         54.743730299999996
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -68213,8 +68213,8 @@
         73.36310485,
         55.125303
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -68771,8 +68771,8 @@
         55.16457775,
         51.79027775
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -69887,8 +69887,8 @@
         36.09652895,
         52.96804065
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -71189,8 +71189,8 @@
         45.03029725,
         53.194040150000006
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -71561,8 +71561,8 @@
         56.227780550000006,
         58.0224134
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -71654,8 +71654,8 @@
         56.8261774,
         59.418130700000006
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -74816,8 +74816,8 @@
         28.359047699999998,
         57.81158015
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -75188,8 +75188,8 @@
         39.6611907,
         47.2544753
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -75281,8 +75281,8 @@
         38.88156225,
         47.23920545
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -75374,8 +75374,8 @@
         40.2303153,
         47.7365418
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -75467,8 +75467,8 @@
         42.2098363,
         47.5412488
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -75560,8 +75560,8 @@
         40.12198505,
         47.419759400000004
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -75653,8 +75653,8 @@
         39.7425682,
         47.107837399999994
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -75746,8 +75746,8 @@
         39.9085143,
         47.796139800000006
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -76211,8 +76211,8 @@
         39.97210105,
         48.3194467
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -76397,8 +76397,8 @@
         39.7181256,
         54.67013575
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -77513,8 +77513,8 @@
         50.0608891,
         53.32141675
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -77606,8 +77606,8 @@
         49.4618455,
         53.5218076
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -77699,8 +77699,8 @@
         48.440100900000004,
         53.096587650000004
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -79466,8 +79466,8 @@
         46.0075147,
         51.53886305
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -79559,8 +79559,8 @@
         46.11890255,
         51.4751993
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -79652,8 +79652,8 @@
         47.7917221,
         52.0051295
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -82442,8 +82442,8 @@
         60.475181449999994,
         56.78821815
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -84023,8 +84023,8 @@
         61.9094786,
         56.392647249999996
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -84953,8 +84953,8 @@
         42.0326936,
         45.1232779
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -85232,8 +85232,8 @@
         59.98144815,
         57.9298278
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -85697,8 +85697,8 @@
         59.9782953,
         56.9021536
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -86813,8 +86813,8 @@
         31.99894505,
         54.778969149999995
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -88208,8 +88208,8 @@
         41.402158,
         52.7032836
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -88952,8 +88952,8 @@
         35.89481205,
         56.8596931
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -91091,8 +91091,8 @@
         84.98853865000001,
         56.4749768
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -91463,8 +91463,8 @@
         84.86970045,
         56.648467249999996
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -91649,8 +91649,8 @@
         37.61859835,
         54.180664
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -91742,8 +91742,8 @@
         38.31319945,
         54.04596865
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -93695,8 +93695,8 @@
         65.5404343,
         57.141691699999996
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -93881,8 +93881,8 @@
         48.4879368,
         54.307808449999996
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -93974,8 +93974,8 @@
         49.608478399999996,
         54.2407196
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -94904,8 +94904,8 @@
         59.670150899999996,
         55.1488298
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -95369,8 +95369,8 @@
         61.58094815,
         55.090565600000005
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -95741,8 +95741,8 @@
         59.0525384,
         53.42564845
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -95834,8 +95834,8 @@
         60.11134105,
         55.0641516
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -96950,8 +96950,8 @@
         61.367827649999995,
         55.155989899999994
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -97973,8 +97973,8 @@
         113.3978707,
         52.0288593
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -98160,7 +98160,7 @@
         57.65049515
       ],
       "enabled": true,
-      "color": "#4CAF50"
+      "color": "#F44336"
     }
   },
   {
@@ -98252,8 +98252,8 @@
         38.811990699999996,
         58.06144545
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -99932,8 +99932,8 @@
         72.61496414999999,
         61.06834415
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -100026,8 +100026,8 @@
         76.65245855,
         60.9500393
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -100496,8 +100496,8 @@
         73.5009979,
         61.3015397
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -101619,8 +101619,8 @@
         77.361309,
         66.0290674
       ],
-      "enabled": true,
-      "color": "#FFC107"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -101712,8 +101712,8 @@
         76.11132275,
         63.11907025
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {
@@ -102086,8 +102086,8 @@
         45.62393,
         43.2922573
       ],
-      "enabled": true,
-      "color": "#4CAF50"
+      "enabled": false,
+      "color": null
     }
   },
   {

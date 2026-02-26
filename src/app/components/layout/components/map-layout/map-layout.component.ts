@@ -31,8 +31,6 @@ export class MapLayoutComponent implements AfterViewInit, OnInit, OnDestroy {
 
     constructor(
         private _router: Router,
-        private _route: ActivatedRoute,
-        private _cdr: ChangeDetectorRef,
         public layoutService: LayoutService,
         private _loadProgressService: LoadProgressService,
         private breakpointObserver: BreakpointObserver,

@@ -15,13 +15,13 @@ export const routes: Routes = [
     children: [
       {
         path: '', pathMatch: 'full', loadComponent: () =>
-          import('./components/cities-list/cities-list.component')
+          import('./components/cities/cities-list/cities-list.component')
             .then(m => m.CitiesListComponent)
       },
       {
         path: 'city/:id',
         loadComponent: () =>
-          import('./components/cities-detail/cities-detail.component')
+          import('./components/cities/cities-detail/cities-detail.component')
             .then(m => m.CitiesDetailComponent),
         canActivate: []
       }

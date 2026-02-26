@@ -48,6 +48,18 @@
     <div class="text-900 text-xl font-semibold whitespace-nowrap">Города ({{count}})</div>
     <div class="flex items-center ml-auto">
 
+
+      <p-button
+        class="text-xl"
+        [rounded]="true"
+        pTooltip="Загрузить"
+        badgeSeverity="contrast"
+        (click)="onUpload()"
+        size="large"
+        icon="pi pi-cloud-upload"
+        [text]="true"
+      />
+
       <p-button
         *ngIf="isSmallScreen"
         class="text-xl"

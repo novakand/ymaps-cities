@@ -35,6 +35,7 @@ import { YMapMarkerDirective } from './directives/y-map-marker.directive';
 import { CollisionManagerService } from './services/collision-manager.service';
 import { YMapHintDirective } from './directives/y-map-hint.directive';
 import { BreakpointObserver, BreakpointState } from '@angular/cdk/layout';
+import { LoadProgressService } from '../../services/load-progress.service';
 @Component({
     selector: 'app-map',
     standalone: true,
@@ -67,9 +68,8 @@ import { BreakpointObserver, BreakpointState } from '@angular/cdk/layout';
     changeDetection: ChangeDetectionStrategy.OnPush
 })
 
-//55.755864, 37.617698
 export class MapComponent {
-    public center = signal<[number, number]>([37.617698, 55.755864]); // [lng,lat]
+    public center = signal<[number, number]>([37.617698, 55.755864]);
     public zoom = signal<number>(4);
     public theme = signal<'light' | 'dark'>('light');
     public bounds = signal<[[number, number], [number, number]]>([[-83.8, -170.8], [83.8, 170.8]]);
@@ -106,9 +106,11 @@ export class MapComponent {
         private cities: CitiesService,
         public layoutService: LayoutService,
         private collisionService: CollisionManagerService,
+        private _loadProgressService: LoadProgressService,
         private breakpointObserver: BreakpointObserver,
     ) {
 
+        this._loadProgressService.show(1);
         this.theme.set(this.layoutService.config().darkTheme ? 'dark' : 'light');
 
         this.breakpointObserver
@@ -158,7 +160,6 @@ export class MapComponent {
                 })
             )
             .subscribe()
-
     }
 
     private _watchForFocusCityChanges(): void {
@@ -179,8 +180,7 @@ export class MapComponent {
             });
     }
 
-
-    onLocationSelected(item: any) {
+    public onLocationSelected(item: any) {
         this.searchMarker = {
             id: 'search-marker',
             coordinates: item.coordinates,
@@ -197,9 +197,10 @@ export class MapComponent {
         });
     }
 
-    onLocationCleared() {
+    public onLocationCleared() {
         this.searchMarker = null;
     }
+
     private _watchForBoundsChanges(): void {
         this._bounds.pipe(
             map(e => e?.event?.location?.bounds as [[number, number], [number, number]] | undefined),
@@ -371,7 +372,7 @@ export class MapComponent {
             .pipe(
                 takeUntil(this._destroy$),
                 switchMap(([list, show, colorFilter]) => {
-
+                    this._loadProgressService.show(1);
                     if (!show) {
                         this.citiesFeatures = [];
                         this.cdr.markForCheck();
@@ -446,6 +447,7 @@ export class MapComponent {
                     };
                 });
 
+                this._loadProgressService.hide(1);
                 this.collisionService.forceUpdate();
 
                 this.cdr.markForCheck();

@@ -1,24 +1,27 @@
-import { ChangeDetectorRef, Component, OnInit } from '@angular/core';
+import { ChangeDetectorRef, Component, OnInit, ViewChild } from '@angular/core';
 import { Router, RouterModule } from '@angular/router';
 import { PanelModule } from 'primeng/panel';
 import { ListboxModule } from 'primeng/listbox';
 import { CommonModule } from '@angular/common';
 import { FormBuilder, FormControl, FormGroup, FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { TooltipModule } from 'primeng/tooltip';
-import { IsTextOverflowingPipe } from '../../pipes/text-overflowing.pipe';
-import { DialogService } from "primeng/dynamicdialog";
-import { delay } from 'rxjs';
+import { IsTextOverflowingPipe } from '../../../pipes/text-overflowing.pipe';
+import { delay, filter } from 'rxjs';
 import { SkeletonModule } from 'primeng/skeleton';
 import { ButtonModule } from 'primeng/button';
 import { BreakpointObserver, BreakpointState } from '@angular/cdk/layout';
-import { LayoutService } from '../../services/layout.service';
+import { LayoutService } from '../../../services/layout.service';
 import { TranslateModule } from '@ngx-translate/core';
 import { DrawerModule } from 'primeng/drawer';
 import { ToggleSwitchModule } from 'primeng/toggleswitch';
 import { Menu } from 'primeng/menu';
-import { MapService } from '../maps/services/map-service';
+import { MapService } from '../../maps/services/map-service';
 import { SelectButtonModule } from 'primeng/selectbutton';
-import { CitiesService } from '../cities/services/cities.service';
+import { CitiesService } from '../services/cities.service';
+import { DialogService, DynamicDialogRef } from 'primeng/dynamicdialog';
+import { BadgeModule } from 'primeng/badge';
+import { PrimeNG } from 'primeng/config';
+import { CitiesUploadComponent } from '../cities-upload/cities-upload.component';
 @Component({
     selector: 'app-cities-list',
     standalone: true,
@@ -32,7 +35,6 @@ import { CitiesService } from '../cities/services/cities.service';
         FormsModule,
         TooltipModule,
         ButtonModule,
-        Menu,
         IsTextOverflowingPipe,
         ReactiveFormsModule,
         PanelModule,
@@ -40,11 +42,13 @@ import { CitiesService } from '../cities/services/cities.service';
         SkeletonModule,
         TranslateModule,
         DrawerModule,
-        SelectButtonModule
+        SelectButtonModule,
+        BadgeModule
     ],
     providers: [DialogService]
 })
 export class CitiesListComponent implements OnInit {
+
     public active: any = null;
     public form: FormGroup;
     public data: any[] = [];
@@ -90,7 +94,6 @@ export class CitiesListComponent implements OnInit {
     }
 
     public ngOnInit() {
-        //this._mapService.remove$.next(true);
         this.citiesService.findEnabled()
             .pipe(delay(50))
             .subscribe(data => {
@@ -114,6 +117,34 @@ export class CitiesListComponent implements OnInit {
     }
 
 
+    public onUpload(): void {
+        const ref = this.dialogService.open(CitiesUploadComponent, {
+            data: { ref: 'null' },
+            width: '50vw',
+            modal: true,
+            height: '28rem',
+            contentStyle: {
+                overflow: 'hidden',
+                padding: 'var(--p-dialog-content-padding)'
+            },
+            showHeader: false,
+            focusOnShow: false,
+            styleClass: '',
+            breakpoints: {
+                '960px': '75vw',
+                '640px': '90vw',
+                '390px': '100%'
+            },
+        });
+
+        ref.onClose.
+            pipe(filter(Boolean)).
+            subscribe((data: any) => {
+                const { action, form } = data || {};
+                console.log(form, '')
+                // action === PanelAction.SAVE && this.addVehicles(form);
+            });
+    }
 
     public onColorChange(): void {
         this._applyFilter();

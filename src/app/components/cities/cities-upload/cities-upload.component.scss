@@ -1,0 +1,13 @@
+:host ::ng-deep {
+    .p-fileupload-content p-progressbar {
+        display: none;
+    }
+
+    // .p-fileupload-header {
+    //     padding: 0;
+    // }
+
+    .p-fileupload-header button {
+        display: none;
+    }
+}

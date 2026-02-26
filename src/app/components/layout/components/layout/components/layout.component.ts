@@ -6,15 +6,15 @@ import { delay, Subject } from 'rxjs';
 import { LoadProgressService } from '../../../../../services/load-progress.service';
 
 @Component({
-    selector: 'app-layout',
-    imports: [CommonModule, RouterOutlet, ProgressBarModule],
-    templateUrl: './layout.component.html',
-    styleUrl: './layout.component.scss',
-    encapsulation: ViewEncapsulation.None
+  selector: 'app-layout',
+  imports: [CommonModule, RouterOutlet, ProgressBarModule],
+  templateUrl: './layout.component.html',
+  styleUrl: './layout.component.scss',
+  encapsulation: ViewEncapsulation.None
 })
 export class LayoutComponent implements OnInit, OnDestroy {
 
-  public showProgress: boolean = false;
+  public showProgress: boolean = true;
 
   public destroy$ = new Subject<boolean>();
 
@@ -42,7 +42,7 @@ export class LayoutComponent implements OnInit, OnDestroy {
   }
 
   public onActivateRouterOutlet() {
-   
+
   }
 
 }

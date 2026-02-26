@@ -43,7 +43,7 @@ export class LocalizationService {
     }
 
     public setLanguage(code: string) {
-        if (!LOCALES[code]) code = 'en';
+        if (!LOCALES[code]) code = 'ru';
         this.translate.setDefaultLang(code);
         this.translate.use(code).subscribe(() => {
             localStorage.setItem('app_language', code);
@@ -53,7 +53,7 @@ export class LocalizationService {
     }
 
     private applyPrimeLocale(code: string) {
-        const cfg = LOCALES[code] || LOCALES['en'];
+        const cfg = LOCALES[code] || LOCALES['ru'];
         this.primeng.setTranslation({ ...cfg, dateFormat: 'dd-mm-yy' });
 
     }

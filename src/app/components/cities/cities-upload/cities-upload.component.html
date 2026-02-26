@@ -5,7 +5,7 @@
     <div class="border-surface-200 flex items-center justify-between h-20">
 
         <span class="font-semibold text-xl">
-            Загрузить список городов (scv)
+            Загрузить список городов (csv)
         </span>
 
         <div class="flex">
@@ -28,6 +28,8 @@
         auto="false"
         fileLimit="1"
         customUpload="true"
+        invalidFileSizeMessageSummary="Файл слишком большой."
+        invalidFileSizeMessageDetail="Максимальный размер файла 1MB."
         url="/"
         [multiple]="false"
         accept="text/csv"
@@ -63,7 +65,7 @@
                                 file.name }}</span>
                             <div>{{ formatSize(file.size) }}</div>
                             <p-badge
-                                value="Completed"
+                                value="Завершено"
                                 severity="success"
                             />
                             <div class="flex items-center space-x-2">
@@ -97,7 +99,7 @@
                 (click)="uploader.choose()"
             >
                 <i class="pi pi-cloud-upload !border-2 !rounded-full !p-8 !text-4xl !text-muted-color"></i>
-                <p class="!mt-6 mb-0">Drag and drop files to here to upload.</p>
+                <p class="!mt-6 mb-0">Перетащите файлы для загрузки.</p>
             </div>
         </ng-template>
     </p-fileupload>

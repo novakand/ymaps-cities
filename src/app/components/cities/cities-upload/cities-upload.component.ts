@@ -83,8 +83,8 @@ export class CitiesUploadComponent implements OnInit, OnDestroy {
         this.layoutService.toggleSideBar();
     }
 
-
     public ngOnInit() {
+
         const stored = this.citiesSettingsService.getRaw();
 
         if (stored?.raw) {
@@ -93,7 +93,7 @@ export class CitiesUploadComponent implements OnInit, OnDestroy {
 
             const file = new File(
                 [blob],
-                stored.fileName,   // 👈 используем настоящее имя
+                stored.fileName,
                 { type: 'text/csv' }
             );
 
@@ -187,8 +187,19 @@ export class CitiesUploadComponent implements OnInit, OnDestroy {
                             file.name
                         );
 
-                    } catch (error) {
-                        console.error('CSV parse error:', error);
+                    } catch (error: any) {
+
+                        (this.uploader as any).msgs = [{
+                            severity: 'error',
+                            summary: 'Ошибка CSV',
+                            detail: error.message
+                        }];
+
+                        this.uploader.clear();
+                        this.files = [];
+                        this.totalSize = 0;
+
+                        this._cdr.detectChanges();
                     }
                 };
 
@@ -226,20 +237,34 @@ export class CitiesUploadComponent implements OnInit, OnDestroy {
             .map(l => l.trim())
             .filter(Boolean);
 
-        if (lines.length < 2) return [];
+        if (lines.length < 2) {
+            throw new Error('CSV пустой или нет данных');
+        }
 
-        return lines.slice(1).map(line => {
+        return lines.slice(1).map((line, index) => {
 
             const cols = line.split(',');
 
-            const city = cols[1]?.trim();      // B колонка
-            const color = cols[3]?.trim();     // D колонка
+            if (cols.length < 4) {
+                throw new Error(`Ошибка структуры в строке ${index + 2}`);
+            }
+
+            const city = cols[1]?.trim();
+            const color = cols[3]?.trim();
+
+            if (!city) {
+                throw new Error(`Не заполнено название города в строке ${index + 2}`);
+            }
+
+            if (color && !/^#([0-9A-F]{3}){1,2}$/i.test(color)) {
+                throw new Error(`Неверный HEX цвет в строке ${index + 2}`);
+            }
 
             return {
                 name: city,
                 color: color
             };
 
-        }).filter(r => r.name);
+        });
     }
 }

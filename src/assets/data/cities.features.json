@@ -417,7 +417,7 @@
   },
   {
     "type": "Feature",
-    "id": "020260010000000017",
+    "id": "020260010000000026",
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -426,13 +426,13 @@
       ]
     },
     "properties": {
-      "name": "Cимферополь",
-      "name_alt": "Cимферополь",
+      "name": "Симферополь",
+      "name_alt": "Симферополь",
       "label": "simferopol",
       "type": "",
       "typeShort": "",
       "contentType": "",
-      "id": "020260010000000017",
+      "id": "020260010000000026",
       "timezone": {},
       "region": {
         "namecase": {},
@@ -443,8 +443,8 @@
         34.100327,
         44.948237
       ],
-      "enabled": false,
-      "color": null
+      "enabled": true,
+      "color": "#F44336"
     }
   },
   {

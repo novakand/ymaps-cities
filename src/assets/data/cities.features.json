@@ -1,6 +1,550 @@
 [
   {
     "type": "Feature",
+    "id": "02026001000000007",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.019268,
+        43.003364
+      ]
+    },
+    "properties": {
+      "name": "Абхазия",
+      "name_alt": "Абхазия",
+      "label": "abkhazia",
+      "type": "Страна",
+      "typeShort": "",
+      "contentType": "",
+      "id": "02026001000000007",
+      "timezone": {},
+      "region": {
+        "namecase": {},
+        "capital": {}
+      },
+      "bbox": [],
+      "center": [
+        41.019268,
+        43.003364
+      ],
+      "enabled": true,
+      "color": "#4CAF50"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "02026001000000008",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        34.053462,
+        44.421239
+      ]
+    },
+    "properties": {
+      "name": "Алупка",
+      "name_alt": "Алупка",
+      "label": "alupka",
+      "type": "",
+      "typeShort": "",
+      "contentType": "",
+      "id": "02026001000000008",
+      "timezone": {},
+      "region": {
+        "namecase": {},
+        "capital": {}
+      },
+      "bbox": [],
+      "center": [
+        34.044092,
+        44.41923
+      ],
+      "enabled": false,
+      "color": null
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "020260010000000010",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        34.410129,
+        44.676411
+      ]
+    },
+    "properties": {
+      "name": "Алушта",
+      "name_alt": "Алушта",
+      "label": "alushta",
+      "type": "",
+      "typeShort": "",
+      "contentType": "",
+      "id": "020260010000000010",
+      "timezone": {},
+      "region": {
+        "namecase": {},
+        "capital": {}
+      },
+      "bbox": [],
+      "center": [
+        34.410129,
+        44.676411
+      ],
+      "enabled": false,
+      "color": null
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "020260010000000010",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.691315,
+        46.110727
+      ]
+    },
+    "properties": {
+      "name": "Армянск",
+      "name_alt": "Армянск",
+      "label": "armyansk",
+      "type": "",
+      "typeShort": "",
+      "contentType": "",
+      "id": "020260010000000010",
+      "timezone": {},
+      "region": {
+        "namecase": {},
+        "capital": {}
+      },
+      "bbox": [],
+      "center": [
+        33.691315,
+        46.110727
+      ],
+      "enabled": false,
+      "color": null
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "020260010000000010",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.848035,
+        44.744997
+      ]
+    },
+    "properties": {
+      "name": "Бахчисарай",
+      "name_alt": "Бахчисарай",
+      "label": "bakhchysarai",
+      "type": "",
+      "typeShort": "",
+      "contentType": "",
+      "id": "020260010000000010",
+      "timezone": {},
+      "region": {
+        "namecase": {},
+        "capital": {}
+      },
+      "bbox": [],
+      "center": [
+        33.848035,
+        44.744997
+      ],
+      "enabled": false,
+      "color": null
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "020260010000000011",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        27.555691,
+        53.902735
+      ]
+    },
+    "properties": {
+      "name": "Беларусь",
+      "name_alt": "Беларусь",
+      "label": "belarus",
+      "type": "",
+      "typeShort": "",
+      "contentType": "",
+      "id": "020260010000000011",
+      "timezone": {},
+      "region": {
+        "namecase": {},
+        "capital": {}
+      },
+      "bbox": [],
+      "center": [
+        27.555691,
+        53.902735
+      ],
+      "enabled": true,
+      "color": "#4CAF50"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "020260010000000012",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        35.383911,
+        45.026654
+      ]
+    },
+    "properties": {
+      "name": "Феодосия",
+      "name_alt": "Феодосия",
+      "label": "feodosia",
+      "type": "",
+      "typeShort": "",
+      "contentType": "",
+      "id": "020260010000000012",
+      "timezone": {},
+      "region": {
+        "namecase": {},
+        "capital": {}
+      },
+      "bbox": [],
+      "center": [
+        35.383911,
+        45.026654
+      ],
+      "enabled": true,
+      "color": "#FFC107"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "020260010000000013",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        71.435819,
+        51.143964
+      ]
+    },
+    "properties": {
+      "name": "Казахстан",
+      "name_alt": "Казахстан",
+      "label": "kazakhstan",
+      "type": "",
+      "typeShort": "",
+      "contentType": "",
+      "id": "020260010000000013",
+      "timezone": {},
+      "region": {
+        "namecase": {},
+        "capital": {}
+      },
+      "bbox": [],
+      "center": [
+        71.435819,
+        51.143964
+      ],
+      "enabled": true,
+      "color": "#4CAF50"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "020260010000000014",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.352363,
+        48.576531
+      ]
+    },
+    "properties": {
+      "name": "Луганск",
+      "name_alt": "Луганск",
+      "label": "luhansk",
+      "type": "",
+      "typeShort": "",
+      "contentType": "",
+      "id": "020260010000000014",
+      "timezone": {},
+      "region": {
+        "namecase": {},
+        "capital": {}
+      },
+      "bbox": [],
+      "center": [
+        39.352363,
+        48.576531
+      ],
+      "enabled": true,
+      "color": "#F44336"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "020260010000000014",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.352363,
+        48.576531
+      ]
+    },
+    "properties": {
+      "name": "Луганск",
+      "name_alt": "Луганск",
+      "label": "luhansk",
+      "type": "",
+      "typeShort": "",
+      "contentType": "",
+      "id": "020260010000000014",
+      "timezone": {},
+      "region": {
+        "namecase": {},
+        "capital": {}
+      },
+      "bbox": [],
+      "center": [
+        39.352363,
+        48.576531
+      ],
+      "enabled": true,
+      "color": "#F44336"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "020260010000000015",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        35.37288,
+        46.842187
+      ]
+    },
+    "properties": {
+      "name": "Мелитополь",
+      "name_alt": "Мелитополь",
+      "label": "melitopol",
+      "type": "",
+      "typeShort": "",
+      "contentType": "",
+      "id": "020260010000000015",
+      "timezone": {},
+      "region": {
+        "namecase": {},
+        "capital": {}
+      },
+      "bbox": [],
+      "center": [
+        35.37288,
+        46.842187
+      ],
+      "enabled": true,
+      "color": "#FFC107"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "020260010000000015",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        35.37288,
+        46.842187
+      ]
+    },
+    "properties": {
+      "name": "Мелитополь",
+      "name_alt": "Мелитополь",
+      "label": "melitopol",
+      "type": "",
+      "typeShort": "",
+      "contentType": "",
+      "id": "020260010000000015",
+      "timezone": {},
+      "region": {
+        "namecase": {},
+        "capital": {}
+      },
+      "bbox": [],
+      "center": [
+        35.37288,
+        46.842187
+      ],
+      "enabled": true,
+      "color": "#FFC107"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "020260010000000016",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.526725,
+        44.556561
+      ]
+    },
+    "properties": {
+      "name": "Севастополь",
+      "name_alt": "Севастополь",
+      "label": "sevastopol",
+      "type": "",
+      "typeShort": "",
+      "contentType": "",
+      "id": "020260010000000016",
+      "timezone": {},
+      "region": {
+        "namecase": {},
+        "capital": {}
+      },
+      "bbox": [],
+      "center": [
+        33.526725,
+        44.556561
+      ],
+      "enabled": true,
+      "color": "#F44336"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "020260010000000017",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        34.100327,
+        44.948237
+      ]
+    },
+    "properties": {
+      "name": "Cимферополь",
+      "name_alt": "Cимферополь",
+      "label": "simferopol",
+      "type": "",
+      "typeShort": "",
+      "contentType": "",
+      "id": "020260010000000017",
+      "timezone": {},
+      "region": {
+        "namecase": {},
+        "capital": {}
+      },
+      "bbox": [],
+      "center": [
+        34.100327,
+        44.948237
+      ],
+      "enabled": false,
+      "color": null
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "020260010000000018",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        34.169506,
+        44.497415
+      ]
+    },
+    "properties": {
+      "name": "Ялта",
+      "name_alt": "Ялта",
+      "label": "yalta",
+      "type": "",
+      "typeShort": "",
+      "contentType": "",
+      "id": "020260010000000018",
+      "timezone": {},
+      "region": {
+        "namecase": {},
+        "capital": {}
+      },
+      "bbox": [],
+      "center": [
+        34.169506,
+        44.497415
+      ],
+      "enabled": true,
+      "color": "#4CAF50"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "020260010000000019",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.367643,
+        45.190635
+      ]
+    },
+    "properties": {
+      "name": "Евпатория",
+      "name_alt": "Евпатория",
+      "label": "yevpatoriya",
+      "type": "",
+      "typeShort": "",
+      "contentType": "",
+      "id": "020260010000000019",
+      "timezone": {},
+      "region": {
+        "namecase": {},
+        "capital": {}
+      },
+      "bbox": [],
+      "center": [
+        33.367643,
+        45.190635
+      ],
+      "enabled": true,
+      "color": "#FFC107"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "020260010000000020",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        35.138851,
+        47.838312
+      ]
+    },
+    "properties": {
+      "name": "Запорожье",
+      "name_alt": "Запорожье",
+      "label": "zaporozhye",
+      "type": "",
+      "typeShort": "",
+      "contentType": "",
+      "id": "020260010000000020",
+      "timezone": {},
+      "region": {
+        "namecase": {},
+        "capital": {}
+      },
+      "bbox": [],
+      "center": [
+        35.138851,
+        47.838312
+      ],
+      "enabled": true,
+      "color": "#4CAF50"
+    }
+  },
+  {
+    "type": "Feature",
     "id": "0202600100000",
     "geometry": {
       "type": "Point",

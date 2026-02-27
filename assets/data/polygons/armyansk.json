@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "geocoding": {
+        "version": "0.1.0",
+        "attribution": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "licence": "ODbL",
+        "query": "Армянск"
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "geocoding": {
+                    "place_id": 408233293,
+                    "osm_type": "way",
+                    "osm_id": 30716086,
+                    "osm_key": "place",
+                    "osm_value": "town",
+                    "type": "city",
+                    "label": "Armyansk, Перекопский район, Autonomous Republic of Crimea, 296012",
+                    "name": "Армянск",
+                    "postcode": "296012",
+                    "county": "Перекопский район",
+                    "state": "Autonomous Republic of Crimea",
+                    "country": "Russia",
+                    "country_code": "ru",
+                    "admin": {
+                        "level6": "Перекопский район",
+                        "level4": "Autonomous Republic of Crimea"
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.6727739,
+                            46.1101131
+                        ],
+                        [
+                            33.675326,
+                            46.0953401
+                        ],
+                        [
+                            33.7090562,
+                            46.0977161
+                        ],
+                        [
+                            33.7059352,
+                            46.1122949
+                        ],
+                        [
+                            33.7067287,
+                            46.1166404
+                        ],
+                        [
+                            33.7023079,
+                            46.1165293
+                        ],
+                        [
+                            33.6997751,
+                            46.1164656
+                        ],
+                        [
+                            33.6952362,
+                            46.1177049
+                        ],
+                        [
+                            33.6924446,
+                            46.118467
+                        ],
+                        [
+                            33.6919209,
+                            46.1186131
+                        ],
+                        [
+                            33.679804,
+                            46.1189846
+                        ],
+                        [
+                            33.6752518,
+                            46.1155149
+                        ],
+                        [
+                            33.6727739,
+                            46.1101131
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

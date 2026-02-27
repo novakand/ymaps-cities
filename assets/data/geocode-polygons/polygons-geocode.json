@@ -1,0 +1,8 @@
+[
+  {
+    "id": "zone-2",
+    "file": "src/assets/data/polygons/1.geojson",
+    "stepDeg": 0.008,
+    "throttleMs": 600
+  }
+]
